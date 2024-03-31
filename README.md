@@ -6,7 +6,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on ADHD project
 - 🌱 I’m currently learning to create games through Unity2D
-- - 📫 How to reach me: nidhishree1911@gmail.com
+- 📫 How to reach me: nidhishree1911@gmail.com
 - 😄 Pronouns: she/her
 <!--
 - 👯 I’m looking to collaborate on ...
