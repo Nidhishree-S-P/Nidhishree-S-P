@@ -5,7 +5,7 @@ Hi there 👋
 -->
 
 - 🔭 I’m currently working on ADHD project
-- 🌱 I’m currently learning to create games through Unity2D
+- 🌱 I’m currently learning to create games through Unity2D and expanding my knowledge in Cybersecurity 
 - 📫 How to reach me: nidhishree1911@gmail.com
 - 😄 Pronouns: she/her
 <!--
