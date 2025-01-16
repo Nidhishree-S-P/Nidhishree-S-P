@@ -9,9 +9,17 @@ Hi there 👋
 - 📫 How to reach me: nidhishree1911@gmail.com
 - 😄 Pronouns: she/her
 
-- ### Skills
-- 💻 Languages: HTML, CSS, JavaScript, Python
-- 📊 Data: Data ETL
+### Skills
+```html
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="background-color: #f0f0f0; border-radius: 5px; padding: 10px; margin: 5px;">
+    💻 Languages: HTML, CSS, JavaScript, Python
+  </div>
+  <div style="background-color: #f0f0f0; border-radius: 5px; padding: 10px; margin: 5px;">
+    📊 Data: Data ETL
+  </div>
+</div>
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
