@@ -8,6 +8,11 @@ Hi there 👋
 - 🌱 I’m currently learning to create games through Unity2D and expanding my knowledge in Cybersecurity 
 - 📫 How to reach me: nidhishree1911@gmail.com
 - 😄 Pronouns: she/her
+
+- ### Skills
+- 💻 Languages: HTML, CSS, JavaScript, Python
+- 📊 Data: Data ETL
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
