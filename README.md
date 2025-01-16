@@ -10,16 +10,11 @@ Hi there 👋
 - 😄 Pronouns: she/her
 
 ### Skills
-```html
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="background-color: #f0f0f0; border-radius: 5px; padding: 10px; margin: 5px;">
-    💻 Languages: HTML, CSS, JavaScript, Python
-  </div>
-  <div style="background-color: #f0f0f0; border-radius: 5px; padding: 10px; margin: 5px;">
-    📊 Data: Data ETL
-  </div>
-</div>
-
+- !HTML
+- !CSS
+- !JavaScript
+- !Python
+- !Data ETL
 
 <!--
 - 👯 I’m looking to collaborate on ...
