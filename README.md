@@ -39,7 +39,6 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
 | Math Learning Platform | Interactive platform for ADHD students | Python, JavaScript | 🚧 In Progress |
 
 ### 🧠 Featured: Comprehensive Monitoring for Dementia Patients
-![System Architecture](https://github.com/user-attachments/assets/ce3bc75e-a325-4ad6-bb60-311930c3238b)
 
 An innovative IoT and ML-powered system for monitoring dementia patients, featuring:
 - Real-time vital parameter tracking
@@ -49,7 +48,6 @@ An innovative IoT and ML-powered system for monitoring dementia patients, featur
 - Personalized care recommendations
 
 ### 🎒 Smart Carry Backpack
-![Smart Backpack](https://user-images.githubusercontent.com/75977813/236689877-5417d839-6055-430e-91b0-121daa0b86f8.gif)
 
 Smart backpack with real-time pressure monitoring and mobile app integration. [Watch Demo](https://youtu.be/5yHtvpJuOx0)
 
