@@ -9,7 +9,7 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
     <tr>
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
-      <td align="center"><b>IoT & ML</b></td>
+      <td align="center"><b>Other</b></td>
     </tr>
     <tr>
       <td>
