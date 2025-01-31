@@ -24,8 +24,7 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
       </td>
       <td>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" width="100"/><br>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100"/><br>
-        <img src="https://img.shields.io/badge/IoT-003A70?style=for-the-badge&logo=iot&logoColor=white" width="100"/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" width="100"/>
       </td>
     </tr>
   </table>
