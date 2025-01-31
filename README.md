@@ -38,11 +38,6 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
 | Math Learning Platform | Interactive platform for ADHD students | Python, JavaScript | 🚧 In Progress |
 | Unity2D Game | Educational game development | Unity, C# | 🌱 Learning |
 
-### 🎒 Featured: Smart Carry Backpack
-![Smart Backpack](https://user-images.githubusercontent.com/75977813/236689877-5417d839-6055-430e-91b0-121daa0b86f8.gif)
-
-A smart backpack system with real-time strap pressure monitoring, mobile app connectivity, and posture feedback. Built with Arduino, force sensors, and Bluetooth communication. [Watch Demo](https://youtu.be/5yHtvpJuOx0)
-
 ## 📫 Connect
 - 📧 nidhishree1911@gmail.com
 - 😄 Pronouns: she/her
