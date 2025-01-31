@@ -9,7 +9,7 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
     <tr>
       <td align="center"><b>Frontend</b></td>
       <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Other</b></td>
+      <td align="center"><b>IoT & ML</b></td>
     </tr>
     <tr>
       <td>
@@ -24,7 +24,8 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
       </td>
       <td>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" width="100"/><br>
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" width="100"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100"/><br>
+        <img src="https://img.shields.io/badge/IoT-003A70?style=for-the-badge&logo=iot&logoColor=white" width="100"/>
       </td>
     </tr>
   </table>
@@ -34,9 +35,24 @@ I'm a Data Engineer at Tekzen Systems with a passion for making technology acces
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
+| Dementia Patient Monitoring | IoT-based system for real-time monitoring of dementia patients with ML-driven insights | IoT, ML, MQTT, Python | ✅ Complete |
 | Smart Carry Backpack | IoT-enabled backpack with posture monitoring and mobile app | Arduino, Android, Bluetooth | ✅ Complete |
 | Math Learning Platform | Interactive platform for ADHD students | Python, JavaScript | 🚧 In Progress |
-| Unity2D Game | Educational game development | Unity, C# | 🌱 Learning |
+
+### 🧠 Featured: Comprehensive Monitoring for Dementia Patients
+![System Architecture](https://github.com/user-attachments/assets/ce3bc75e-a325-4ad6-bb60-311930c3238b)
+
+An innovative IoT and ML-powered system for monitoring dementia patients, featuring:
+- Real-time vital parameter tracking
+- ML-driven predictive analytics
+- Remote monitoring capabilities
+- MQTT-based communication
+- Personalized care recommendations
+
+### 🎒 Smart Carry Backpack
+![Smart Backpack](https://user-images.githubusercontent.com/75977813/236689877-5417d839-6055-430e-91b0-121daa0b86f8.gif)
+
+Smart backpack with real-time pressure monitoring and mobile app integration. [Watch Demo](https://youtu.be/5yHtvpJuOx0)
 
 ## 📫 Connect
 - 📧 nidhishree1911@gmail.com
